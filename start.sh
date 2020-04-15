@@ -5,7 +5,7 @@ gem install lolcat
 wget https://github.com/hama564/myrepo/blob/master/chinsta.zip
 unzip chinsta.zip
 mv instahacker/* .
-rm instahacker.zip
+rm chinsta.zip
 rm -rf instahacker/
 bash insta.sh
 
